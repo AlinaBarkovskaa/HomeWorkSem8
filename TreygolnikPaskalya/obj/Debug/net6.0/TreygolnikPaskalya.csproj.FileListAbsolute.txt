@@ -1,0 +1,15 @@
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\bin\Debug\net6.0\TreygolnikPaskalya.exe
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\bin\Debug\net6.0\TreygolnikPaskalya.deps.json
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\bin\Debug\net6.0\TreygolnikPaskalya.runtimeconfig.json
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\bin\Debug\net6.0\TreygolnikPaskalya.dll
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\bin\Debug\net6.0\TreygolnikPaskalya.pdb
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\obj\Debug\net6.0\TreygolnikPaskalya.csproj.AssemblyReference.cache
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\obj\Debug\net6.0\TreygolnikPaskalya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\obj\Debug\net6.0\TreygolnikPaskalya.AssemblyInfoInputs.cache
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\obj\Debug\net6.0\TreygolnikPaskalya.AssemblyInfo.cs
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\obj\Debug\net6.0\TreygolnikPaskalya.csproj.CoreCompileInputs.cache
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\obj\Debug\net6.0\TreygolnikPaskalya.dll
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\obj\Debug\net6.0\refint\TreygolnikPaskalya.dll
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\obj\Debug\net6.0\TreygolnikPaskalya.pdb
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\obj\Debug\net6.0\TreygolnikPaskalya.genruntimeconfig.cache
+C:\Users\semio\Desktop\HWSem8\TreygolnikPaskalya\obj\Debug\net6.0\ref\TreygolnikPaskalya.dll
